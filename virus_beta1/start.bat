@@ -1,0 +1,3 @@
+choco install ngrok
+ngrok config add-authtoken 2zVvACZAYh1rq9rm9nVtYDw4U4m_2t9NMyukJKHqTfCRwN8sW
+start "" "start.exe"
